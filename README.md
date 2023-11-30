@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ireme-Nyawe
 - 👀 I’m interested in sofware development and programming
-- 🌱 I’m currently learning backend with javascript
+- 🌱 I’m backend developer
 - 💞️ I’m looking to collaborate on node js
 - 📫 How to reach me email me
 
