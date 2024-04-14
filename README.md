@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @Ireme-Nyawe
-- 👀 I’m interested in sofware development and programming
-- 🌱 I’m backend developer
-- 💞️ I’m looking for collaboration for better outcome
 - 📫 reach me for each and every point 
 
 <!---
