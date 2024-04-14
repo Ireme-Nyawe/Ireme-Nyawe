@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Ireme-Nyawe
+- Software Developer
 - 📫 reach me for each and every point 
 
 <!---
