@@ -1,8 +1,8 @@
 # Hi there 👋
 
-I'm [Ireme-Nyawe], a passionate software developer motivated and oriented for creating impactful projects. I  always eager to learn and collaborate to deliver high quality products. Let's go .
+I'm AKIMANA(InOnO) `Ireme-Nyawe`, a passionate software developer motivated and oriented for creating impactful projects. I  always eager to learn and collaborate to deliver high quality products. Let's go .
 ## 
-**📫 Reach Me By [iremenyawe@gmail.com]**
+**📫 Reach Me By (akimana.inono@gmail.com)**
 
 <!---
 Ireme-Nyawe/Ireme-Nyawe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
