@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm AKIMANA(InOnO) `Ireme-Nyawe`, a passionate software developer motivated and oriented for creating impactful projects. I  always eager to learn and collaborate to deliver high quality products. Let's go .
+I'm a Software Engineer who builds with intention for impact. Known as InOnO(ireme), which means quality  and that's the identinty  shaping how I work: thoughtful solutions, clean execution, and a standard I keep. I combine technical depth, business understanding, and a genuine curiosity for AI and emerging technology to turn real problems into real products. I thrive in collaboration, grow with every challenge, and show up with integrity in everything I do. Let's make it together.
 ## 
 **📫 Reach Me By (akimana.inono@gmail.com)**
 
